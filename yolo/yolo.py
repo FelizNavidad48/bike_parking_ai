@@ -7,5 +7,5 @@ model = YOLO('yoloModels/yolov8x.pt')  # load an official model
 
 # Predict with the model
 #results = model.predict(source='parking.jpg', save=True, conf=0.2)  # predict on an image
-results = model.predict(source='bike_original.jpg', save=True, conf=0.25)
+results = model.predict(source='test/test1.jpg', save=True, conf=0.25)
 print(results)
