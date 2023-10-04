@@ -3,7 +3,7 @@ from ultralytics import YOLO
 #import cv2
 
 # Load a model
-model = YOLO('yolov8x.pt')  # load an official model
+model = YOLO('/yoloModels/yolov8x.pt')  # load an official model
 
 # Predict with the model
 #results = model.predict(source='parking.jpg', save=True, conf=0.2)  # predict on an image
