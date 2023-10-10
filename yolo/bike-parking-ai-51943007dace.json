@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bike-parking-ai",
+  "private_key_id": "51943007dacee74fc5a4362574c5eafa661243e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCt7rjSzWKklgJB\ntNrOPD5IjFflRTRJTdYGUe+Fh9+WZyATGhWngGLNQmhit4Damy8rJttMsoVt3Q9J\nkfFLgbfur6OgaJyrufDc8w1S3zSzDOEfd+AXkSBUpuZTPEoBcceU4blZcaDtyls2\nVsro7wZvxwMGG1JDc4mANcNx1Qx8mvyG73avwEevbYPyl+JpJfbwE7YDChGpWz8Q\nCWHvkjdTOYLTcoLoYjVyPVVw+386wxM+hwjdxT8ipDlYZv91Y30dvK/o384ehlzN\nvs71LLWRPpJC8kcabb8E6GptfGRP3VEP2mKrwOkLxIUQSGMC+v5XAmp+L64crL1c\ntNCZ5UR7AgMBAAECggEAUOSF8QS0q/dYdVa3rNM35GXhOzBEcRNSRv40d9YJltm/\ngSLQj2aWjQAlrEPMGd+ywE8CD1m31LDLO1w07PkXolrtrtz4gKWp8BjaSYCl8eA7\nk3cdMdi9QKGe3Xdcs+9G82dH3OGMBwvmAA+9rzf7tmDIdz6ds+E4Qfi/PWHovMpS\ne7Y9kEODCUXNKDDCUku7sGqv0jct73sj6d/a5/OKzY1G52WLD57lsOpbRt51u/Q/\ncP1FUlswM79A0PWWxeR44eG7pi82FfcNEehatLBRcTTTZVWSVkmUeHBD8cPvdAfy\nY0qRZoCKAwawOUzURVY9C74A8eauZa1gIlhejCUjgQKBgQDu8yQneuCaC02F3dvn\nTVxHyPxQDz0ltNdhZOaP2/Ozv9JMFdl9172sJvigbiUfxBb9CjO6mY06mzwwgCsi\noTN8YxFNRnfes+dfaI0zaZZdaV8xyeBpWp5MZi0BjGc13boBfu3jsLAelXtMRjZR\nBeLtYHVvZONJ29wnBScztxMh3wKBgQC6V+ueK1LRJTFoh4Pa1Lcn/tt2GrZ6etJz\nmRjWCuW2xEA0jR2AQEPew2gU800yOSzdUPoFs+MQ5rBLXND2iLQ/B5T2yuYEmwXm\n4MfgX9H1gXQZs7hNdNva4mvinQTGxP1+xkysy+F70WRXBpFZ//ZQ6bEF/BK9HG61\nHjwI5GcI5QKBgHCW4FI589qhuMV65EL4kKLCcSDIDWfW7iVWBc2DNjFcERsIsJI7\nNYQIWN4/B/8PxkU0qWsjLwiOXK39tlV632ecxmpC6fhljH/II8A14EPjgpdTKAp8\nSFp3Sn2QSpF3CE3sIOtINbQzewVVkAJdY6+145+5Sd9jWTiJlQ8pFDrBAoGBAJQz\n9t4eQMi8VvZ2ySSTB3SU2sCs8DKrWpO70KfzlM1uek4RacQl2JTkPvRiqSPnm0oN\n7Dv63P4FK3NUx5E8GncCtbQunRBOpzv/zJgkPV2P7uG+MTfRWEZWzE04aqMX6zEX\nz8WihZwvZilcvN+ilqm1oyhKWjDz2wzLlh3QYi4NAoGBAKaaf4gG7ASQIynQG+fo\nalWa60lsz8wh+4f75wXY3tN2Wk8+Uktsp5eSH0mCAmkBEDQNEpFyLa+eEhhgVOr4\nM+EJetvnJg/jt8bstmu1iX7xvM5r6xUWwhUxK21QG0Uy2/I9fyr+rMxUM1sLf4Qc\nvbcKlhzVraC8J0wIMSOxPk+r\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-957@bike-parking-ai.iam.gserviceaccount.com",
+  "client_id": "112123610845737428115",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-957%40bike-parking-ai.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
