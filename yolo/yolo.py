@@ -2,6 +2,7 @@ from ultralytics import YOLO
 from shee import add_row
 #from ultralytics.yolo.v8.detect.predict import DetectionPredictor
 #import cv2
+#Comentaras
 
 # Load a model
 model = YOLO('yoloModels/yolov8x.pt')  # load an official model
